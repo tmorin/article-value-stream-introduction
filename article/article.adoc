@@ -1,7 +1,7 @@
 = Value Stream: a practice introduction
 :author: Thibault Morin
-:revdate: 2024-04-20
-:revnumber: 1
+:revdate: 2024-04-23
+:revnumber: 2
 :toc:
 :icons: font
 :source-highlighter: coderay
@@ -15,7 +15,7 @@ In today's competitive landscape, the primary purpose of any enterprise is unmis
 
 Value, as a concept, often remains abstract and intangible, making it difficult for businesses to grasp and measure effectively. This ambiguity leads to critical questions: Are our efforts aligning with our core objectives? Are we truly delivering what we promise to our stakeholders?
 
-To address these challenges, TOGAF®, a globally recognized enterprise architecture framework, offers a structured approach through its TOGAF® Series Guide to Value Streams. This guide provides enterprises with a methodology to model and understand the flow of value creation, ensuring that every aspect of the business contributes to its overarching goals.
+To address these challenges, https://pubs.opengroup.org/togaf-standard/index.html[TOGAF®], a globally recognized enterprise architecture framework, offers a structured approach through its https://pubs.opengroup.org/togaf-standard/business-architecture/value-streams.html[TOGAF® Series Guide to Value Streams]. This guide provides enterprises with a methodology to model and understand the flow of value creation, ensuring that every aspect of the business contributes to its overarching goals.
 
 A Value Stream is defined as a series of activities that work in sequence to provide value to stakeholders. It is inherently stakeholder-centric, focusing on delivering specific benefits at each stage of the process. By grouping activities into stages, a Value Stream ensures that each contributes a tangible increment of value, making the abstract concept of "value" more concrete and measurable.
 
