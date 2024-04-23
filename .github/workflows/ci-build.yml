@@ -19,7 +19,6 @@ jobs:
         run: |
           asciidoctor -r asciidoctor-diagram article/article.adoc -D dist/article -a toc=left -o index.html
           cp article/*.png dist/article
-          cp article/*.svg dist/article
       - name: Build article-pdf
         run: asciidoctor-pdf -r asciidoctor-diagram article/article.adoc -D dist -o codebase-metamodel-article.pdf
       - name: Upload article-pdf
