@@ -1,7 +1,7 @@
 = Value Stream: a practical introduction
 :author: Thibault Morin
 :revdate: 2024-04-23
-:revnumber: 3
+:revnumber: 4
 :toc:
 :icons: font
 :source-highlighter: coderay
@@ -45,8 +45,7 @@ In our next section, we will dive deeper into the Value Stream by describing its
 
 == Step #1: Description of the value stream
 
-Understanding and aligning on the initial steps of the Value Stream technique is support the successful implementation of any strategic initiative within an organization. The description of the Value Stream is particularly pivotal as it lays the groundwork for all subsequent activities and decisions.
-
+Understanding and aligning on the initial steps of the Value Stream technique is required to support the successful implementation of any strategic initiative within an organization. The description of the Value Stream is particularly pivotal as it lays the groundwork for all subsequent activities and decisions.
 The detailed description of a Value Stream serves multiple essential purposes:
 
 * *Clarification*: It provides all stakeholders with a clear and concise understanding of the Value Stream, ensuring everyone is on the same page regarding its scope and function.
@@ -60,7 +59,7 @@ A comprehensive Value Stream description includes several key components:
 * *Stakeholders*: Lists the key personnel and departments involved who will either impact or be impacted by the Value Stream.
 * *Value*: Defines the direct benefits that the Value Stream aims to deliver to the organization.
 
-For Company XYZ, the Value Stream for the "Talent Recruiting Modernization Plan" can be broken down as follows:
+For Company XYZ, the Value Stream for the "Talent Recruiting Modernization Plan" can be described down as follows:
 
 * *Name*: Recruiting
 * *Description*: This Value Stream encompasses all activities involved in sourcing, evaluating, and securing qualified candidates for employment positions within the company.
