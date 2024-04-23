@@ -1,7 +1,7 @@
-= Value Stream: a practice introduction
+= Value Stream: a practical introduction
 :author: Thibault Morin
 :revdate: 2024-04-23
-:revnumber: 2
+:revnumber: 3
 :toc:
 :icons: font
 :source-highlighter: coderay
