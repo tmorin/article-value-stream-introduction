@@ -1,0 +1,5 @@
+.idea/
+*.bak
+*.html
+*.pdf
+dist/
